@@ -1,0 +1,147 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?",
+        "Hey, nice to see you!",
+        "Hello! How are you doing today?",
+        "Hi! What brings you here?",
+        "Good day! How can I assist you?",
+        "Hey there! How may I assist you today?",
+        "Hello! How can I make your day better?",
+        "Greetings! What can I do for you?",
+        "Hi there! Nice to see you!",
+        "Hey! How's it going?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Take care!",
+        "Goodbye! Have a great day!",
+        "Until next time!",
+        "Bye bye! Have a wonderful day!",
+        "Farewell! Come back soon!",
+        "Catch you later!",
+        "See you soon!",
+        "Adios!",
+        "Bye for now!",
+        "Take it easy!",
+        "Have a good one!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure",
+        "You're welcome!",
+        "Glad I could assist!",
+        "I'm here to help!",
+        "It was my pleasure!",
+        "No problem!",
+        "You got it!",
+        "Don't mention it!",
+        "That's what I'm here for!",
+        "You're most welcome!",
+        "It's my pleasure to assist you!"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea.",
+        "We have coffee and tea.",
+        "Our selection includes coffee and tea.",
+        "We offer a variety of coffee and tea.",
+        "You can find coffee and tea here.",
+        "We have a range of coffee and tea options.",
+        "Our menu includes a variety of coffees and teas.",
+        "We specialize in coffee and tea."
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard, and Paypal.",
+        "We accept most major credit cards and Paypal.",
+        "You can pay with VISA, Mastercard, or Paypal.",
+        "We accept credit cards and Paypal payments.",
+        "We accept VISA, Mastercard, and Paypal. Cash is also accepted.",
+        "We support VISA, Mastercard, Paypal, and cash.",
+        "Payment methods include VISA, Mastercard, and Paypal.",
+        "We accept VISA, Mastercard, Paypal, and other major credit cards."
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery typically takes 2-4 days.",
+        "Shipping usually takes 2-4 days.",
+        "Your order should arrive in 2-4 days.",
+        "Most deliveries are completed within 2-4 days.",
+        "You can expect your delivery in 2-4 days.",
+        "Delivery times are usually 2-4 days.",
+        "Shipping times are generally 2-4 days.",
+        "Your delivery will arrive in 2-4 days."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison.",
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "I told my wife she should embrace her mistakes. She gave me a hug.",
+        "Parallel lines have so much in common. It’s a shame they’ll never meet.",
+        "I'm reading a book on anti-gravity. It's impossible to put down!",
+        "I used to play piano by ear, but now I use my hands like everyone else.",
+        "I'm trying to organize a hide and seek tournament, but good players are really hard to find.",
+        "I'm reading a book about anti-gravity. It's impossible to put down!",
+        "I told my computer I needed a break and now it won't stop throwing up pop-ups.",
+        "What do you call fake spaghetti? An impasta!",
+        "I asked the librarian if the library had any books on paranoia. She whispered, 'They're right behind you.'",
+        "I'm writing a book. I've got the page numbers done; now I just need to fill in the rest."
+      ]
+    }
+  ]
+}
